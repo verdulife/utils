@@ -1,0 +1,36 @@
+{
+  "_from": "verdu@1.1.2",
+  "_id": "verdu@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-ckgwKaqrTvGDXS7INLbq7IHmr4KQkHjIGUwfNPHAB8q7XR9WbaiF65nnqSm/d4Fp7fXOJ+lLBEs94fmOFzkBLA==",
+  "_location": "/verdu",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "verdu@1.1.2",
+    "name": "verdu",
+    "escapedName": "verdu",
+    "rawSpec": "1.1.2",
+    "saveSpec": null,
+    "fetchSpec": "1.1.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/verdu/-/verdu-1.1.2.tgz",
+  "_shasum": "958dddb00b6483864b7eaf0629be0282b81bc5f3",
+  "_spec": "verdu@1.1.2",
+  "_where": "C:\\Users\\user\\stripetest",
+  "author": {
+    "name": "verdu"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "require.js",
+  "name": "verdu",
+  "version": "1.2.0"
+}
