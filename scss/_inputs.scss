@@ -3,22 +3,22 @@ input,
 select,
 textarea {
   background: transparent;
-  padding: 10px 20px;
-  font-size: 16px;
+  padding: 0.9em 1em;
   color: $base;
-  transition: 0.2s;
+  transition: 200ms;
 }
 
 //basics
 input.round,
 select.round,
 textarea.round {
-  border-radius: 30px;
+  border-radius: 4em;
+  padding: 0.9em 1.2em;
 }
 input.semi,
 select.semi,
 textarea.semi {
-  border-radius: 5px;
+  border-radius: 0.4em;
 }
 input.out,
 select.out,

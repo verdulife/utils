@@ -3,14 +3,14 @@ button,
 a.btn {
   cursor: pointer;
   background-color: transparent;
-  padding: 10px 20px;
-  font-size: 14px;
+  padding: 0.9em 2em;
+  font-size: 0.9em;
   font-weight: bold;
   color: $base;
   border: 2px solid transparent;
   user-select: none;
   -webkit-user-drag: none;
-  transition: 0.2s;
+  transition: 200ms;
 
   &:hover {
     transform: scale(0.95);
@@ -20,11 +20,11 @@ a.btn {
 //basics
 button.round,
 a.round {
-  border-radius: 30px;
+  border-radius: 4em;
 }
 button.semi,
 a.semi {
-  border-radius: 5px;
+  border-radius: 0.4em;
 }
 button.out,
 a.out {

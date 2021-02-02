@@ -30,6 +30,11 @@
 
 .box {
   border: 1px solid $border;
+  padding: 0.9em 1em;
+}
+
+.box.round {
+  border-radius: 0.4em;
 }
 
 .slider {

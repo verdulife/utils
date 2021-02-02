@@ -8,6 +8,7 @@
   border: none;
   outline: none;
   box-shadow: none;
+  line-height: 1.4;
   appearance: none;
 
   // renders
@@ -24,6 +25,10 @@
 
   @media (max-width: $tablet) {
     cursor: default;
+  }
+
+  &:not(h1, h2, h3, h4, h5, h6) {
+    font-size: $text;
   }
 }
 
@@ -47,7 +52,7 @@ main {
   width: 100%;
   height: 100%;
   background: $bg;
-  border-radius: 10px;
+  border-radius: 0.5em;
 }
 
 body,
@@ -81,5 +86,5 @@ ul {
 pre,
 code {
   font-family: "Operator Mono Lig", monospace;
-  font-size: 14px;
+  font-size: 0.9em;
 }
