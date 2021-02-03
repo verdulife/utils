@@ -1,6 +1,5 @@
 {
   "_from": "verdu@1.1.2",
-  "_id": "verdu@1.1.2",
   "_inBundle": false,
   "_integrity": "sha512-ckgwKaqrTvGDXS7INLbq7IHmr4KQkHjIGUwfNPHAB8q7XR9WbaiF65nnqSm/d4Fp7fXOJ+lLBEs94fmOFzkBLA==",
   "_location": "/verdu",
@@ -26,11 +25,11 @@
   "author": {
     "name": "verdu"
   },
-  "bundleDependencies": false,
+  "bundleDependencies": [],
   "deprecated": false,
   "description": "",
   "license": "ISC",
   "main": "require.js",
   "name": "verdu",
-  "version": "1.3.0"
+  "version": "1.3.1"
 }
