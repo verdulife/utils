@@ -3,8 +3,9 @@ input,
 select,
 textarea {
   background: transparent;
-  padding: 0.9em 1em;
   color: $base;
+  font-size: 0.9em;
+  padding: 0.9em 1em;
   transition: 200ms;
 }
 
